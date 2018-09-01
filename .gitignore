@@ -5,3 +5,6 @@ chainstate/
 .lock
 *.dat
 .DS_Store
+gozerd
+gozer-cli
+gozer-tx
