@@ -1,0 +1,7 @@
+
+backups/
+blocks/
+chainstate/
+.lock
+*.dat
+.DS_Store
